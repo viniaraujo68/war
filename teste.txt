@@ -1,0 +1,114 @@
+Players
+Jogador2-Yellow-false-false-0---ContinentGoal
+Conquistar na totalidade a ASIA e a AMERICA DO SUL-false-Asia-America do Sul
+Jogador1-Green-false-false-0---ContinentGoal
+Conquistar na totalidade a AMERICA DO NORTE e AFRICA.-false-America do Norte-Africa
+Jogador3-Blue-false-false-17-America do Sul:2-Siria:Square/Polonia:Triangle/Indonesia:Triangle/Perth:Circle-KillGoal
+Destruir totalmente os exercitos verdes. <>Se nao for possivel dominar 24 territorios.-Yellow-true
+Deck-4
+Coringa1:Joker
+Argentina:Square
+Venezuela:Triangle
+Africa do Sul:Triangle
+Arabia Saudita:Circle
+Romenia:Triangle
+Coreia do Sul:Triangle
+Mexico:Square
+Russia:Triangle
+Somalia:Square
+Jordania:Square
+Nigeria:Circle
+Mongolia:Triangle
+Texas:Triangle
+Coreia do Norte:Square
+Paquistao:Circle
+Argelia:Circle
+Franca:Triangle
+Tailandia:Triangle
+California:Square
+Estonia:Circle
+Siberia:Square
+Japao:Circle
+Calgary:Circle
+Coringa:Joker
+Australia:Triangle
+Ucrania:Circle
+Peru:Triangle
+Alasca:Triangle
+Espanha:Circle
+Turquia:Triangle
+Nova York:Square
+Cazaquistao:Circle
+Egito:Triangle
+China:Square
+Nova Zelandia:Square
+Iraque:Triangle
+India:Triangle
+Bangladesh:Circle
+Reino Unido:Circle
+Letonia:Square
+Angola:Square
+Quebec:Circle
+Italia:Square
+Suecia:Square
+Brasil:Circle
+Groenlandia:Circle
+Vancouver:Triangle
+Ira:Square
+Board
+Brasil-Jogador3-9-0-false-false
+Argentina-Jogador3-6-0-false-false
+Peru-Jogador3-3-0-false-false
+Venezuela-Jogador3-3-0-false-false
+Alasca-Jogador3-1-0-false-false
+Calgary-Jogador3-8-0-false-false
+Groenlandia-Jogador2-1-0-false-false
+Vancouver-Jogador3-3-0-false-false
+Quebec-Jogador2-1-0-false-false
+California-Jogador3-1-0-false-false
+Nova York-Jogador3-1-0-false-false
+Texas-Jogador2-1-0-false-false
+Mexico-Jogador2-1-0-false-false
+Somalia-Jogador3-1-0-false-false
+Angola-Jogador3-2-0-false-false
+Egito-Jogador3-2-0-false-false
+Argelia-Jogador2-9-0-false-false
+Nigeria-Jogador3-1-0-false-false
+Africa do Sul-Jogador2-22-0-false-false
+Espanha-Jogador2-1-0-false-false
+Franca-Jogador3-1-0-false-false
+Italia-Jogador3-1-0-false-false
+Polonia-Jogador3-1-0-false-false
+Reino Unido-Jogador3-2-0-false-false
+Romenia-Jogador2-9-0-false-false
+Suecia-Jogador2-1-0-false-false
+Ucrania-Jogador3-1-0-false-false
+Arabia Saudita-Jogador3-1-0-false-false
+Bangladesh-Jogador3-6-0-false-false
+Cazaquistao-Jogador2-1-0-false-false
+China-Jogador2-1-0-false-false
+Coreia do Norte-Jogador2-1-0-false-false
+Coreia do Sul-Jogador2-1-0-false-false
+Estonia-Jogador3-1-0-false-false
+Letonia-Jogador2-1-0-false-false
+India-Jogador2-1-0-false-false
+Ira-Jogador3-1-0-false-false
+Iraque-Jogador3-1-0-false-false
+Japao-Jogador3-1-0-false-false
+Jordania-Jogador3-2-0-false-false
+Mongolia-Jogador3-1-0-false-false
+Paquistao-Jogador3-1-0-false-false
+Russia-Jogador3-1-0-false-false
+Siberia-Jogador3-2-0-false-false
+Siria-Jogador3-1-0-false-false
+Tailandia-Jogador3-3-0-false-false
+Turquia-Jogador3-1-0-false-false
+Australia-Jogador3-8-0-false-false
+Indonesia-Jogador3-2-0-false-false
+Nova Zelandia-Jogador3-1-0-false-false
+Perth-Jogador1-10-0-false-false
+PhaseManager
+Place-Jogador3
+MovedTroops
+Others
+false-
